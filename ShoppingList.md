@@ -5,6 +5,8 @@
     - Calculated Price: 30€  
 - [25GA370; 500RPM; 12V](https://de.aliexpress.com/item/1005010529774358.html)
     - Calculated Price: 28€  
+- [JGA25-370](https://de.aliexpress.com/item/32987942205.html)
+    - Calculated Price 14€
 
 ### Shock-absorber options
 - [Shock-absorber; 85mm](https://de.aliexpress.com/item/1005007740765164.html)
@@ -14,6 +16,8 @@
 
 
 ### L298N options
+- [L298N](https://de.aliexpress.com/item/1005012408661895.html)
+    - Calculated Price: €1.30  
 
 
 
