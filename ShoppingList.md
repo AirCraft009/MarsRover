@@ -27,8 +27,8 @@
     Calculated Price: 80c
 
 ### Power supply
-- [12V; 3000mAh](https://de.aliexpress.com/item/1005007376687003.htm)
-    Calculates Price: 5.3€
+- [12V; 3000mAh](https://de.aliexpress.com/item/1005009389137722.html) !! 14 August erst
+    Calculates Price: 8€
 
 
 ### Final price list

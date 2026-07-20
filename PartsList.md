@@ -23,7 +23,7 @@ NOT SURE YET FIRST NOTES!!
 ### power supply
 - 12V output
 - resonable mAh 
-- https://de.aliexpress.com/item/1005007376687003.htm
+- https://de.aliexpress.com/item/1005009389137722.html
 
 ### Control Motors - unsure.
 - ESP 32 -> Voltage regulator 12V->5V/3.3V
